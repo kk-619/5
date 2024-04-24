@@ -45,3 +45,7 @@ class Tring {
         }
     }
 }
+/*
+*javac *.java
+*java Tring
+*/
